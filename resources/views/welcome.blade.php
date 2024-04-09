@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Full Stack Blog Application</title>
-        @vite(['resources/js/app.js'])
+        @vite(['resources/css/grid.min.css','resources/css/app.css', 'resources/js/app.js'])
     </head>
     <body class="">
 {{--    Load View js--}}
